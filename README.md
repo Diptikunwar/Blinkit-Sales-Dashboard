@@ -29,6 +29,7 @@ and product category contributions using visual, filterable reports.
 | File | Description |
 |------|-------------|
 | `blinkit_Dashboard_VISUAL_.pbix` | Main Power BI file |
+| `BlinkIT Grocery Data.xlsx` | Raw dataset used for analysis |
 
 ## 🔍 Insights Derived
 - Identified top-performing outlet types by total sales
